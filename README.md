@@ -31,9 +31,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <p align="esquerda">
-<br>
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=paolaandr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<br>
 <p align="esquerda">
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolaandr&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
