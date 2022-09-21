@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🛠 Ferramentas e Tecnologias
-<img align="center" alt="GIT" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
+<img align="center" alt="GIT" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
           
           
 ## 💬 Entre em contato!
