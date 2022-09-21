@@ -11,3 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🛠 Ferramentas e Tecnologias
+
+            <i class="devicon-git-plain-wordmark colored"></i>
+          
