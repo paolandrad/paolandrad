@@ -15,7 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠 Ferramentas e Tecnologias
 ![ Git ](https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white)
-<p align="esquerda">
 ![ python ](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
           
 ## 💬 Entre em contato!
