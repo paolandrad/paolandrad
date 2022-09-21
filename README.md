@@ -1,4 +1,4 @@
-<img align='right' src="https://img.freepik.com/vetores-premium/mulheres-sentam-em-mesas-e-aplicativos-de-codigo-ilustracao-de-programacao-plana_8073-986.jpg?w=826" width="300">
+<img align='right' src="https://img.freepik.com/vetores-premium/mulheres-sentam-em-mesas-e-aplicativos-de-codigo-ilustracao-de-programacao-plana_8073-986.jpg?w=826" width="400">
 
 ## 🚀 Bem vindo ao meu Github:
 
