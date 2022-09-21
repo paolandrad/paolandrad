@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠 Ferramentas e Tecnologias
 <p align="esquerda">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
           
 ## 💬 Entre em contato!
 <p align="esquerda">
@@ -31,8 +31,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 ## 
-<p align="left">
-<div>
+<p align="esquerda">
+<br>
+<div style="display: inline_block">
   <a href="https://github.com/paolaandr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paolaandr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolaandr&layout=compact&langs_count=16&theme=cobalt"/>
