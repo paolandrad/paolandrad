@@ -13,17 +13,13 @@ paolandrad/paolandrad is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## 🛠 Programas // Softwares
-![ VSCode ](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 ## 🛠 Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
 
-##
+## Entre em contato!
 <div>
 <a href = "mailto: paolam.andr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a>
-<a href="https://www.linkedin.com/in/paola-oliveira-6512911b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paola-oliveira-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/paolandrad/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for -the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
