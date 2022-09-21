@@ -40,7 +40,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ![Snake animation](https://github.com/paolandrad/paolandrad/blob/output/github-contribution-grid-snake.svg)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomaalves&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="davi-souza2001"/>
-
-          
