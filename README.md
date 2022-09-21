@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <div>
 <div style="display: inline_block"><br>
  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png" align="center" alt="python" height="30" width="40" />             
+<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" height="30" width="40" />             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="r" width="40" height="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </ a>  
