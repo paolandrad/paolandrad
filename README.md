@@ -15,8 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠 Programas // Softwares
 ![ VSCode ](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![ Pycharm ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg)
-                          
+![ Pycharm ](https://img.cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg)
+![ Intellij ](https://img.cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"?style=for-the-badge&logo=blender&logoColor=white)
+
 ## 🛠 Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
