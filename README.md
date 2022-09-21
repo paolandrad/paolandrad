@@ -1,4 +1,8 @@
+<img align='right' src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fbpstecnologia.com%2Fwp-content%2Fuploads%2F2020%2F01%2FAnalise-de-Vulnerabilidades-505px.png&imgrefurl=https%3A%2F%2Fbpstecnologia.com%2F&tbnid=AbTGEdvTe8hmvM&vet=12ahUKEwjyqZmljqX6AhWXuZUCHajVA_0QxiAoAHoECAAQEw..i&docid=keIOqQ9T97hmoM&w=493&h=505&itg=1&q=%20ilustra%C3%A7%C3%A3o%20ti&ved=2ahUKEwjyqZmljqX6AhWXuZUCHajVA_0QxiAoAHoECAAQEw" width="300">
+
 ## 🚀 Bem vindo ao meu Github:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Visualizações do perfil" /> </p>
+
 - 👋 Hi, I’m @paolandrad
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
