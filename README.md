@@ -30,6 +30,16 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+## 
+<p align="esquerda">
+  <br>
+    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=paulofreitas-py&theme=synthwave&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" alt="PauloFreitas-py estatísticas" />
+    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofreitas-py&theme=synthwave&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true&layout=compact " alt="paulofreitas-py maioria dos idiomas"/>
+  <br>
+<p align="direita">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=paulofreitasdev&layout=compact"/>  
+<a href="https://app.daily.dev/paulofreitas_py"><img src="https://api.daily.dev/devcards/7e2dc53f4020473083e9389c5d35d5f5.png?r=plt" width="200" alt= "Cartão de Desenvolvimento de Paulo Freitas"/></a>
+
 ![Snake animation](https://github.com/paolandrad/paolandrad/blob/output/github-contribution-grid-snake.svg)
 
 
