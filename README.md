@@ -1,7 +1,6 @@
 <img align='right' src="https://img.freepik.com/vetores-premium/mulheres-sentam-em-mesas-e-aplicativos-de-codigo-ilustracao-de-programacao-plana_8073-986.jpg?w=826" width="300">
 
 ## 🚀 Bem vindo ao meu Github:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulofreitas-py&color=red" alt="Visualizações do perfil" /> </p>
 
 - 👋 Hi, I’m @paolandrad
 - 👀 I’m interested in ...
@@ -14,6 +13,10 @@ paolandrad/paolandrad is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+## 🛠 Programas // Softwares
+![ VSCode ](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![ Pycharm ](https://img.shields.io/badge/Blender%203D-FF8800?style=for-the-badge&logo=blender&logoColor=white)
+                
 ## 🛠 Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
