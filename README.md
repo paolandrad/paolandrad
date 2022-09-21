@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🛠 Ferramentas e Tecnologias
-
+![ Python ] (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />)
 
 ## 💬 Entre em contato!
 <div>
