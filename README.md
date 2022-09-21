@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 ## 🛠 Ferramentas e Tecnologias
 ![ Git ](https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![ python ](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![ R ](https://img.shields.io/badge/R%20-%2314364C.svg?&style=for-the-badge&logo=python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
           
 ## 💬 Entre em contato!
 <p align="esquerda">
