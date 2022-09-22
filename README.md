@@ -1,7 +1,7 @@
 <img align='right' src="https://img.freepik.com/vetores-premium/mulheres-sentam-em-mesas-e-aplicativos-de-codigo-ilustracao-de-programacao-plana_8073-986.jpg?w=826" width="400">
 
 <h1 align="center"> 🚀 Bem vindo ao meu Github: <h1>
-
+##
 - 👋 Hi, I’m Paola Oliveira
 - 👀 I’m interested in Data Scientist ...
 - 🌱 I’m currently learning Python, R, Mysql ...
