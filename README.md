@@ -34,11 +34,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
- ###
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
- 
- 
  
  ###
    
