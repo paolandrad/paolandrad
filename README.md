@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## 💬 Entre em contato!
-<p align="esquerda">
+<p align="center">
 <div>
 <a href = "mailto: paola.oliveiraandr@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white " target="_blank">
@@ -34,13 +34,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
  
-###          
-          
-<div>
+<div align="center" style="display: flex">
   <a href="https://github.com/paolaandr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paolaandr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolaandr&layout=compact&langs_count=16&theme=cobalt"/>
-<div/>
+</div>
 
           
 ![Snake animation](https://github.com/paolandrad/paolandrad/blob/output/github-contribution-grid-snake.svg)
