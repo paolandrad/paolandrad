@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠 Ferramentas e Tecnologias
 <div align="center">
-<div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="r" width="40" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="r" width="40" height="30"/>  
@@ -23,8 +22,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## 💬 Entre em contato!
-<div align="esquerda">
-<div style="display: inline_block"><br>
+<div align="center">
 <a href = "mailto: paola.oliveiraandr@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white " target="_blank">
 </a>
@@ -34,7 +32,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/paolandrad/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</div>
  
 ###
    
