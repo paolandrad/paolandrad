@@ -2,8 +2,6 @@
 
 <h1 align="center"> 🚀 Bem vindo ao meu Github: <h1>
  
-### teste
-<div align="esquerda">
 - 👋 Hi, I’m Paola Oliveira
 - 👀 I’m interested in Data Scientist ...
 - 🌱 I’m currently learning Python, R, Mysql ...
