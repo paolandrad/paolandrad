@@ -1,12 +1,13 @@
 <img align='right' src="https://img.freepik.com/vetores-premium/mulheres-sentam-em-mesas-e-aplicativos-de-codigo-ilustracao-de-programacao-plana_8073-986.jpg?w=826" width="400">
 
 <h1 align="center"> 🚀 Bem vindo ao meu Github: <h1>
-##
+
+<div align="esquerda">
 - 👋 Hi, I’m Paola Oliveira
 - 👀 I’m interested in Data Scientist ...
 - 🌱 I’m currently learning Python, R, Mysql ...
 - 📫 How to reach me paolam.andrad@gmail.com 
-
+   </div>
 <!---
 paolandrad/paolandrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
