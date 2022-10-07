@@ -1,4 +1,4 @@
-![gif](https://designculture.com.br/wp-content/uploads/2017/02/35ae65e72b11ce73f7bc4b758c7b6a48.gif)
+![gif](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif))
 
 <h1 align="center"> 🚀 Bem vindo ao meu Github: </h1>
  
