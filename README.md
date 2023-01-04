@@ -3,8 +3,8 @@
 <h1 align="center"> 🚀 Bem vindo ao meu Github: </h1>
  
 - 👋 Hi, I’m Paola Oliveira
-- 👀 I’m interested in Data Scientist ...
-- 🌱 I’m currently learning Python, R, Mysql ...
+- 👀 I’m interested in Backend Developer...
+- 🌱 I’m currently learning Java, SQL...
 - 📫 How to reach me paolam.andrad@gmail.com 
  
 <!---
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠 Ferramentas e Tecnologias
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="r" width="40" height="30"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIntelliJ_IDEA_Icon.svg&psig=AOvVaw0eI4utae-o7VP40vQP3Nt3&ust=1672899272974000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD-wqqhrfwCFQAAAAAdAAAAABAE)" alt="r" width="40" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="r" width="40" height="30"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </ a>  
