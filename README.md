@@ -1,6 +1,15 @@
-![gif](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<div align="center">
+  
+<img align="right" alt="Coding" width="500" src= "https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+  
+</div>
 
-<h1 align="center"> 🚀 Bem vindo ao meu Github: </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanvermai30&label=Profile%20views&color=0e75b6&style=flat" alt="amanvermai30" eidth="300"/> </p> <h1 align="center">Hi 👋, I'm Paola Oliveira</h1>
+<h3 align="center">I'm a Java Backend Developer with hands-on experience in designing, developing, and maintaining projects.</h3>
+
+<div align="right">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcom+to+my+github;Java+Backend+Developer;Web+Developer;Adventurer;Problem+Solver;Traveller;&color=teal&center=true" />
+</div>
  
 - 👋 Hi, I’m Paola Oliveira
 - 👀 I’m interested in Backend Developer...
@@ -13,13 +22,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🛠 Ferramentas e Tecnologias
-<div align="center">
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIntelliJ_IDEA_Icon.svg&psig=AOvVaw0eI4utae-o7VP40vQP3Nt3&ust=1672899272974000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD-wqqhrfwCFQAAAAAdAAAAABAE)" alt="r" width="40" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="r" width="40" height="30"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="30"/> </ a>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/> </a> </p>
-</div>
+
 
 ## 💬 Entre em contato!
 <div align="center">
