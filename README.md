@@ -49,12 +49,5 @@ You can click the Preview link to take a look at your changes.
 </a>
  
 ###
-   
-<div align="center" style="display: flex">
-  <a href="https://github.com/paolaandr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paolaandr&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolaandr&layout=compact&langs_count=16&theme=cobalt"/>
-</div>
-
           
 ![Snake animation](https://github.com/paolandrad/paolandrad/blob/output/github-contribution-grid-snake.svg)
