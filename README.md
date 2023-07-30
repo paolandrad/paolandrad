@@ -33,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Grafana](https://img.shields.io/badge/-Grafana-0?logo=grafana)
 </p>
 
 ## 💬 Entre em contato!
